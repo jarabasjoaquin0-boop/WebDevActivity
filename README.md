@@ -1,1 +1,18 @@
-# WebDevActivity
+<!DOCTYPE html>
+<html Lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Playlist</title>
+    </head>
+    <body>
+        <h1>Recently Played🎧</h1>
+        <img src="https://i.pinimg.com/1200x/fb/e4/f7/fbe4f74f6ae024540cf10df4890d5406.jpg" width="300" height="500">
+        <ul>
+            <li><b>Cup of Joe</b> - Sandali</li>
+            <li><b>Maki</b> - habangbuhay pansamantala</li>
+            <li><b>ZEROBASEONE</b> - TOP 5</li>
+            <li><b>TWS</b> - Why You So Bad</li>
+        </ul>
+    </body>
+</html>
